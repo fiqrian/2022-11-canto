@@ -1,4 +1,4 @@
-FROM ubuntu:latest 
+FROM ubuntu:kinetic 
 
 # add your keyname
 ARG KEY_NAME <add your keyname>
