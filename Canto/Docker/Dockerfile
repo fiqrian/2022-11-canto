@@ -1,4 +1,4 @@
-FROM ubuntu:latest 
+FROM ubuntu:22.10 
 
 # add your keyname
 ARG KEY_NAME <add your keyname>
